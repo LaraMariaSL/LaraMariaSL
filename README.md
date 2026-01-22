@@ -19,6 +19,7 @@
 ### 🧠 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraMariaSL&layout=compact&theme=radical)
 
+![Snake animation](https://raw.githubusercontent.com/LaraMariaSL/LaraMariaSL/output/github-contribution-grid-snake.svg)
 ---
 
 ✨ Em constante evolução
